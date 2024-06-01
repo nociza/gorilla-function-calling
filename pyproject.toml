@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "llm-function-calling"
+version = "0.1.0"
+description = ""
+authors = ["nociza <azicon@berkeley.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+llama-cpp-python = "^0.2.61"
+fastapi = "^0.110.1"
+uvicorn = "^0.29.0"
+psutil = "^5.9.8"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
