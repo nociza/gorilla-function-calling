@@ -1,12 +1,3 @@
-Deciding which workspace information to collect
-
-Collecting workspace information
-
-Filtering to most relevant information
-
-Sure, here's a basic README for your project:
-
-```markdown
 # LLM Function Calling
 
 This is a FastAPI application that uses the Gorilla OpenFunctions API for model inference.
